@@ -1,2 +1,2 @@
-# Lab04
-Aici va fi adaugat bot-ul de discord din laboratorul 3.
+# Discord bot
+This is the implementation of a Discord Bot in Python.
